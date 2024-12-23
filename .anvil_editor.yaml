@@ -1,8 +1,9 @@
 unique_ids:
-  forms:
-    MainView: NLIMF2UJ2DGWVB63ZTQQXTUEQ5HKAOTL
-  modules: {}
-  server_modules: {}
   assets:
     standard-page.html: G5XJWUIHQPY4QLJ6AFVZYHDWD5SR6XCY
     theme.css: JLPUV7KKSABUIUD2P2TJAG32SE4VZDMO
+  forms:
+    MainView: NLIMF2UJ2DGWVB63ZTQQXTUEQ5HKAOTL
+  modules: {}
+  scripts: {}
+  server_modules: {}
